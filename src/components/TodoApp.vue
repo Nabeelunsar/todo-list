@@ -65,7 +65,7 @@ export default {
           status: 'to-do'
         },
         {
-          name: 'he is a good guy',
+          name: 'He is a good guy',
           status: 'in-progress'
         }
       ]
